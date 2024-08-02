@@ -13,6 +13,9 @@
 //	给定二叉树[1, 2, 2, 3, 3, null, null, 4, 4]
 //	返回 false 。
 
+#include <stdlib.h>
+#include <algorithm>
+
 using namespace std;
 
 typedef struct TreeNode
